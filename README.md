@@ -1,5 +1,11 @@
 # IPL Match Outcome Prediction:
 
+https://ipl-prediction-utk.streamlit.app/
+
+![Screenshot 2024-08-12 200928](https://github.com/user-attachments/assets/d513575d-7fc6-4826-a4b4-6c83cdc20115)
+
+
+
 This project focuses on predicting the outcome of Indian Premier League (IPL) cricket matches based on the current match scenario. Utilizing detailed historical data and machine learning techniques, specifically Logistic Regression and Random Forest classifiers, the project aims to provide accurate predictions that can be valuable for enthusiasts, analysts, and stakeholders.
 
 ## Table of Contents
