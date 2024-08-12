@@ -84,38 +84,38 @@ You can install these dependencies using `pip`.
 
 Clone the Repository:
 
-bash
-Copy code
 git clone https://github.com/yourusername/ipl-match-prediction.git
+
 Navigate to the Project Directory:
 
-bash
-Copy code
+
 cd ipl-match-prediction
-Ensure Datasets are in Place:
+
+Ensure Datasets are in Place.
+
 
 Place matches.csv and deliveries.csv in the project directory.
 
-Launch Jupyter Notebook:
+Launch Jupyter Notebook
 
-bash
-Copy code
+
 jupyter notebook
 Open and Run the Notebook:
+
 
 Open MATCH_PREDICTION.ipynb and execute the cells sequentially to perform data analysis, train models, and make predictions.
 
 ## Future Work:
 
 
-###Incorporate Real-Time Data:
+### Incorporate Real-Time Data:
 Integrate live match data to provide real-time predictions.
 
-###Expand Feature Set:
+### Expand Feature Set:
 Include more features like player form, pitch conditions, and weather data.
 
 ### Advanced Modeling Techniques:
 Explore deep learning models and ensemble methods to enhance prediction accuracy.
 
-###User Interface:
+### User Interface:
 Develop a web or mobile application to make the prediction model accessible to a broader audience.
