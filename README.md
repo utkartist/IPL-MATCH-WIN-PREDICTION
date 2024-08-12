@@ -10,7 +10,6 @@ This project focuses on predicting the outcome of Indian Premier League (IPL) cr
 - [Machine Learning Models](#machine-learning-models)
 - [Results](#results)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
 - [Future Work](#future-work)
 
 ## Overview
@@ -80,30 +79,6 @@ Ensure the following Python libraries are installed:
 
 You can install these dependencies using `pip`.
 
-## Usage:
-
-Clone the Repository:
-
-git clone https://github.com/yourusername/ipl-match-prediction.git
-
-Navigate to the Project Directory:
-
-
-cd ipl-match-prediction
-
-Ensure Datasets are in Place.
-
-
-Place matches.csv and deliveries.csv in the project directory.
-
-Launch Jupyter Notebook
-
-
-jupyter notebook
-Open and Run the Notebook:
-
-
-Open MATCH_PREDICTION.ipynb and execute the cells sequentially to perform data analysis, train models, and make predictions.
 
 ## Future Work:
 
